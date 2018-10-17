@@ -38,9 +38,10 @@ The server also automatically starts on boot
 
 ## Usage
 
+Connect to Wifi:
 - Connect to omega's wifi: `OMEGA-XXXX` with password `12345678`
 
-- Open a web browser
+Open a web browser
 
 On a Chrome:
 
@@ -54,3 +55,4 @@ On anything else:
 If the web page loads, you are good to go!
 
 Please create an Issue on this repository if you encounter any issues.
+
